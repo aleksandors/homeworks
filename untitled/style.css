@@ -1,0 +1,70 @@
+body {
+    background-color: #0F0627;
+}
+table {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {
+    margin-left: 10%;
+    color: #fff;
+}
+img {
+    margin-left: 3%;
+}
+ul {
+    margin-left: 22%;
+}
+li {
+    margin-bottom: 5px;
+}
+.clas_header_h {
+    height: 230px;
+}
+.stil_tab_h {
+    height: 120px;
+}
+.stil_margin {
+    margin-left: 55px;
+}
+.stil_margin_header {
+    margin-left: 24%;
+}
+.socseti {
+   // margin-top: 20px;
+    margin-left: 60px;
+}
+.bel {
+    color: white;
+    text-align: center;
+}
+.clas_heigth {
+    padding-top: 20px;
+    padding-left: 30px;
+}
+.left_kol {
+    width: 15%;
+}
+.rigth_kol {
+    width: 40%;
+}
+.foto {
+    float: left;
+    width: 200px;
+    height: 230px;
+}
+.clas_bodi {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    background: #E5CCFF;
+    border-radius: 30px;
+}
+.clas_header {
+    width: 100%;
+    background: rgba(26, 15, 16, 0.04);
+}
+.clas_kontrast {
+    background-color: #E5CCFF;
+}
